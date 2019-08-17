@@ -19,7 +19,7 @@ body {
 .caption {
   position: absolute;
   left: 0;
-  top: 100%;
+  top: 50%;
   width: 100%;
   text-align: center;
   color: #000;
@@ -27,7 +27,7 @@ body {
 .caption span.border {
   background-color: #111;
   color: #fff;
-  padding: 25px;
+  padding: 18px;
   font-size: 25px;
   letter-spacing: 10px;
 }
